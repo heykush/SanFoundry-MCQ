@@ -1,5 +1,5 @@
 # SanFoundry-MCQ
-Script to help you scrap whole sanfoundry mcq with anwsers and explanation. 
+Script to help you scrap whole sanfoundry mcq with anwsers and explanation following all `next` links. 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
 
@@ -11,7 +11,8 @@ Script to help you scrap whole sanfoundry mcq with anwsers and explanation.
   <img src="https://github.com/heykush/SanFoundry-MCQ/blob/main/image.png?raw=true"  style{ >
 </p>
 
-`Edit your link of sanfoundry in MCQ.py and your are ready to go.`
+
+
 ## Install Module ⚙
 - `pip install selenium`
 - `pip install bs4`
@@ -21,11 +22,14 @@ Script to help you scrap whole sanfoundry mcq with anwsers and explanation.
 ✔ ***You need to download [CromeDriver](https://chromedriver.chromium.org/downloads) here.***
 *To give the path in webdriver*
 
+> Note: You must already have python installed.
+
 ## How to Run 🏃‍♂️ 
-1. Open terminal and type `git clone` and give path of [repo](https://github.com/heykush/Grocery-VS-Grocery.git)
+1. Open terminal and type `git clone` and give path of [repo](https://github.com/heykush/SanFoundry-MCQ.git)
 2. After cloning of repo on local.
-3. Run MCQ.py
-4. Done
+3. `Edit your link of sanfoundry in MCQ.py and your are ready to go.`
+4. Run `python MCQ.py` in terminal.
+5. Done
 
 
 Contributing 🤝
