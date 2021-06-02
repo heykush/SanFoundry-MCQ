@@ -1,4 +1,4 @@
-# SanFoundry-MCQ
+# [SanFoundry-MCQ](https://www.sanfoundry.com/)
 Script to help you scrap whole sanfoundry mcq with anwsers and explanation following all `next` links. 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
